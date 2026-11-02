@@ -1,52 +1,98 @@
-# 🚀 Meu Portfólio de Projetos
+# Olá, eu sou Maristela Costa 👋
 
-Olá! Sou **Maristela Aparecida Costa**, Bacharel em Sistemas de Informação e pós-graduanda em Cibersegurança & BI. Abaixo estão os meus principais projetos em destaque.
+🎓 Bacharel em Sistemas de Informação
 
----
+🔐 MBA em Cibersegurança e Proteção de Dados (em andamento)
 
-## 🏆 Top Projetos em Destaque
+📊 MBA em Business Intelligence, Big Data e Analytics (em andamento)
 
-### 1. 📊 [BI & Analytics Dashboard](https://github.com/maristelagatinhapreta-jpg/sicredi-bi-indicator-dashboard-)
-* **Descrição:** Dashboard de Business Intelligence desenvolvido para processamento, análise visual de dados e geração de relatórios estratégicos.
-* **Tecnologias:** Python, Pandas, Streamlit, SQL
-
-### 2. 🛍️ [Dashboard Omnichannel](https://github.com/maristelagatinhapreta-jpg)
-* **Descrição:** Dashboard interativo de e-commerce e vendas unificadas com métricas de desempenho por canal.
-* **Tecnologias:** Python, Pandas, Streamlit, Plotly
-
-### 3. 🛡️ [NetGuardian](https://github.com/maristelagatinhapreta-jpg)
-* **Descrição:** Sistema focado em monitoramento, governança e segurança de rede.
-* **Tecnologias:** JavaScript, Python, Segurança da Informação
-
-### 4. 💻 [Cadastro de Clientes Java](https://github.com/maristelagatinhapreta-jpg)
-* **Descrição:** Aplicação desenvolvida em Java para gerenciamento e manipulação de cadastro de clientes.
-* **Tecnologias:** Java, SQL
-
-### 5. 📈 [Análise de Vendas em R](https://github.com/maristelagatinhapreta-jpg)
-* **Descrição:** Projeto de análise de dados utilizando estatística descritiva e visualização gráfica.
-* **Tecnologias:** R, Estatística Descritiva
+💻 Desenvolvedora em formação com foco em Análise de Sistemas, Desenvolvimento Full Stack, Business Intelligence e Segurança da Informação.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
-- **Linguagens:** Python, Java, R, SQL, JavaScript
-- **BI & Análise de Dados:** Streamlit, Power BI, Plotly, Pandas, Estatística Descritiva
-- **Segurança & Redes:** Cibersegurança, Governança de TI, Monitoramento de Redes
-- **Ferramentas:** Git, GitHub, VS Code
+### Linguagens
+- Java
+- Python
+- JavaScript
+- SQL
+- HTML5
+- CSS3
+
+### Banco de Dados
+- MySQL
+- PostgreSQL
+
+### Ferramentas
+- Git
+- GitHub
+- Power BI
+- Streamlit
+- VS Code
+
+### Conhecimentos
+- Desenvolvimento Web
+- APIs REST
+- Modelagem de Sistemas
+- Governança de TI
+- LGPD
+- Cibersegurança
+- Big Data & Analytics
 
 ---
 
-## 📊 Estatísticas
+## 📂 Projetos em Destaque
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maristelagatinhapreta-jpg&show_icons=true&theme=radium" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maristelagatinhapreta-jpg&layout=compact&theme=radium" alt="Linguagens Mais Utilizadas" height="150"/>
-</div>
+### 🎫 Sistema de Gestão de Chamados
+Sistema para gerenciamento e acompanhamento de chamados técnicos.
+
+### 📊 BI Analytics Dashboard
+Dashboard de Business Intelligence desenvolvido com Python, SQL, Pandas e Streamlit.
+
+### ☕ Cadastro de Clientes Java
+Aplicação Java para cadastro e gerenciamento de clientes.
+
+### 🌐 Backend Development and APIs
+Projeto focado em APIs REST e desenvolvimento backend.
+
+### 🔎 IP Scanner
+Ferramenta para análise e identificação de dispositivos em rede.
+
+### 📈 Dashboard Financeiro
+Projeto de análise de dados e visualização de indicadores financeiros.
 
 ---
 
-## 📬 Contato
+## 📚 Atualmente estudando
 
-- **LinkedIn:** [Seu Nome](https://www.linkedin.com/in/seu-perfil)
-- **E-mail:** seu.email@exemplo.com
+- Desenvolvimento Full Stack
+- Cibersegurança
+- Proteção de Dados
+- Big Data
+- Cloud Computing
+- Inteligência Artificial
+
+---
+
+## 📫 Contato
+
+📧 maristelagatinhapreta@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/maristela-costa-49b348216/
+
+🐙 GitHub: https://github.com/Maristelacosta/maristelagatinhapreta-jpg/
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco oportunidades como:
+
+- Desenvolvedora Full Stack Júnior
+- Analista de Sistemas Júnior
+- Analista de BI Júnior
+- Analista de Dados Júnior
+- Analista de Segurança da Informação Júnior
+
+Sempre em busca de aprendizado contínuo e novos desafios na área de tecnologia.
