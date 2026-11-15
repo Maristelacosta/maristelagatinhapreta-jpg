@@ -1,4 +1,8 @@
-# Olá, eu sou Maristela Costa 👋
+# 👋 Olá, eu sou Maristela Costa
+
+![Banner Profissional](InvalidUrl)
+
+## 🚀 Sobre Mim
 
 🎓 Bacharel em Sistemas de Informação
 
@@ -6,82 +10,79 @@
 
 📊 MBA em Business Intelligence, Big Data e Analytics (em andamento)
 
-💻 Desenvolvedora em formação com foco em Análise de Sistemas, Desenvolvimento Full Stack, Business Intelligence e Segurança da Informação.
+💡 Apaixonada por tecnologia, dados, desenvolvimento de software e segurança da informação.
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens
-- Java
-- Python
-- JavaScript
-- SQL
-- HTML5
-- CSS3
-
-### Banco de Dados
-- MySQL
-- PostgreSQL
-
-### Ferramentas
-- Git
-- GitHub
-- Power BI
-- Streamlit
-- VS Code
-
-### Conhecimentos
-- Desenvolvimento Web
-- APIs REST
-- Modelagem de Sistemas
-- Governança de TI
-- LGPD
-- Cibersegurança
-- Big Data & Analytics
+![](UnableToLoadUrl)
 
 ---
 
-## 📂 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 ### 🎫 Sistema de Gestão de Chamados
-Sistema para gerenciamento e acompanhamento de chamados técnicos.
 
-### 📊 BI Analytics Dashboard
-Dashboard de Business Intelligence desenvolvido com Python, SQL, Pandas e Streamlit.
+✅ Gerenciamento e acompanhamento de demandas técnicas.
+
+**Tecnologias:** Java, SQL, Git
+
+---
+
+### 📊 Painel de Análise de BI
+
+✅ Dashboard para análise de indicadores empresariais.
+
+**Tecnologias:** Python, Pandas, SQL, Streamlit
+
+---
 
 ### ☕ Cadastro de Clientes Java
-Aplicação Java para cadastro e gerenciamento de clientes.
 
-### 🌐 Backend Development and APIs
-Projeto focado em APIs REST e desenvolvimento backend.
+✅ Sistema CRUD para cadastro e gerenciamento de clientes.
 
-### 🔎 IP Scanner
-Ferramenta para análise e identificação de dispositivos em rede.
-
-### 📈 Dashboard Financeiro
-Projeto de análise de dados e visualização de indicadores financeiros.
+**Tecnologias:** Java, MySQL
 
 ---
 
-## 📚 Atualmente estudando
+### 🌐 Desenvolvimento de Backend e APIs
 
-- Desenvolvimento Full Stack
-- Cibersegurança
-- Proteção de Dados
-- Big Data
-- Cloud Computing
-- Inteligência Artificial
+✅ Desenvolvimento de APIs REST e integração de sistemas.
+
+**Tecnologias:** Python, Flask, SQL
 
 ---
 
-## 📫 Contato
+### 🔎 Scanner de IP
 
-📧 maristelagatinhapreta@gmail.com
+✅ Ferramenta para identificação de dispositivos em rede.
 
-💼 LinkedIn: https://www.linkedin.com/in/maristela-costa-49b348216/
+**Tecnologias:** Python, Redes, Socket
 
-🐙 GitHub: https://github.com/Maristelacosta/maristelagatinhapreta-jpg/
+---
+
+### 📈 Painel Financeiro
+
+✅ Visualização de indicadores financeiros e análise de dados.
+
+**Tecnologias:** Python, Pandas, Streamlit
+
+---
+
+## 📚 Atualmente Estudando
+
+✅ Desenvolvimento Full Stack
+
+✅ Cibersegurança
+
+✅ Análise de Dados
+
+✅ Big Data
+
+✅ Computação em Nuvem
+
+✅ Inteligência Artificial
 
 ---
 
@@ -89,10 +90,35 @@ Projeto de análise de dados e visualização de indicadores financeiros.
 
 Busco oportunidades como:
 
-- Desenvolvedora Full Stack Júnior
-- Analista de Sistemas Júnior
-- Analista de BI Júnior
-- Analista de Dados Júnior
-- Analista de Segurança da Informação Júnior
+💻 Desenvolvedora Full Stack Júnior
 
-Sempre em busca de aprendizado contínuo e novos desafios na área de tecnologia.
+📊 Analista de BI Júnior
+
+📈 Analista de Dados Júnior
+
+⚙️ Analista de Sistemas Júnior
+
+🔐 Analista de Segurança da Informação Júnior
+
+---
+
+## 📈 Estatísticas GitHub
+
+![GitHub Stats](UnableToLoadUrl)
+
+![Top Langs](UnableToLoadUrl)
+
+---
+
+## 🌐 Conecte\-se Comigo
+
+📧 **E\-mail:** maristelagatinhapreta@gmail.com
+
+💼 **LinkedIn:** www.linkedin.com/in/maristela\-costa\-49b348216
+
+🐙 **GitHub:** github.com/Maristelacosta
+
+---
+
+⭐ Obrigada pela visita ao meu perfil\!
+
