@@ -1,20 +1,141 @@
-<div align="center">
+<p align="center">
+  <img src="./ativos/banner-data-analytics.png" alt="Maristela Costa - Data Analytics Banner" width="100%">
+</p>
 
-# 👋 Olá, eu sou Maristela Costa
+<h1 align="center">Olá, eu sou Maristela Costa 👋</h1>
 
-### 🎓 Sistemas de Informação | 💻 Full Stack Developer | 📊 BI & Analytics | 🔐 Cybersecurity | ☁️ Cloud Computing
+<h3 align="center">
+📊 Analista de Dados Jr. | Business Intelligence | SQL | Power BI
+</h3>
 
-🏆 9+ Certificações • 🚀 Projetos Práticos • 📚 Aprendizado Contínuo
+<p align="center">
+🎓 Graduada em Sistemas de Informação<br>
+🎓 MBA em Business Intelligence, Big Data & Analytics (em andamento)<br>
+🎓 MBA em Cibersegurança e Proteção de Dados (em andamento)
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Sobre Mim
+## 👩‍💻 Sobre Mim
 
-Sou Bacharel em Sistemas de Informação, apaixonada por tecnologia, desenvolvimento de software, análise de dados e segurança da informação.
+Sou graduada em **Sistemas de Informação** e apaixonada por tecnologia, análise de dados e melhoria de processos. Possuo conhecimentos em **SQL, Power BI, Excel, Python, Java e Banco de Dados**, aplicando essas ferramentas para transformar dados em informações estratégicas que apoiam a tomada de decisões.
 
-Atualmente estou expandindo meus conhecimentos por meio de MBAs, certificações e projetos práticos nas áreas de Desenvolvimento Full Stack, Business Intelligence, Dados, Redes, Governança e Cibersegurança.
+Atualmente, estou aprofundando meus conhecimentos por meio de MBAs em **Business Intelligence, Big Data & Analytics** e **Cibersegurança e Proteção de Dados**, buscando unir visão analítica, tecnologia e resultados de negócio.
+
+---
+
+## 📈 Destaque Profissional
+
+Participei de um projeto de otimização da produção de semicases, realizando o acompanhamento de custos, produtividade e indicadores operacionais.
+
+✅ Redução do prazo de produção de **10 para 5 dias**
+
+✅ Aumento da produtividade operacional
+
+✅ Maior capacidade de atendimento de pedidos
+
+✅ Melhoria do controle de custos e processos
+
+✅ Apoio à tomada de decisão baseada em indicadores
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 📊 Painel BI Analytics
+
+<p align="center">
+  <img src="./ativos/painel-bi-analytics.png" alt="Painel BI Analytics" width="900">
+</p>
+
+Dashboard para acompanhamento de indicadores estratégicos, métricas operacionais e apoio à tomada de decisão.
+
+**Tecnologias:** Power BI • SQL • Excel • Analytics
+
+---
+
+### 🤖 Plataforma de Inteligência de Negócios e IA
+
+<p align="center">
+  <img src="./ativos/plataforma-bi-ia.png" alt="Plataforma BI e IA" width="900">
+</p>
+
+Projeto voltado para Business Intelligence, análise de dados e geração de insights estratégicos.
+
+**Tecnologias:** Python • SQL • Analytics • IA
+
+---
+
+### 📈 Análise de Vendas com R
+
+<p align="center">
+  <img src="./ativos/analise-vendas-r.png" alt="Análise de Vendas com R" width="900">
+</p>
+
+Projeto de análise exploratória de dados para acompanhamento de vendas, faturamento e desempenho comercial.
+
+**Tecnologias:** R • Estatística • Data Analytics
+
+---
+
+### 📦 Projeto de Inventário TI
+
+<p align="center">
+  <img src="./ativos/inventario-ti.png" alt="Projeto Inventário TI" width="900">
+</p>
+
+Sistema para controle e gerenciamento de ativos de tecnologia.
+
+**Tecnologias:** Java • SQL • Banco de Dados
+
+---
+
+### 💻 TI Helpdesk System
+
+<p align="center">
+  <img src="./ativos/ti-helpdesk-system.png" alt="TI Helpdesk System" width="900">
+</p>
+
+Sistema para abertura, acompanhamento e gestão de chamados técnicos.
+
+**Tecnologias:** Java • MySQL • Sistemas Web
+
+---
+
+### 🔐 Scanner de IP
+
+<p align="center">
+  <img src="./ativos/scanner-ip.png" alt="Scanner de IP" width="900">
+</p>
+
+Ferramenta para análise e monitoramento de redes.
+
+**Tecnologias:** Python • Redes • Segurança da Informação
+
+---
+
+## 🛠️ Competências Técnicas
+
+- SQL
+- Power BI
+- Excel Avançado
+- Python
+- Java
+- Banco de Dados
+- Business Intelligence
+- Data Analytics
+- Git e GitHub
+- Governança de TI
+- LGPD
+- Segurança da Informação
 
 ---
 
@@ -22,236 +143,51 @@ Atualmente estou expandindo meus conhecimentos por meio de MBAs, certificações
 
 🎓 Bacharelado em Sistemas de Informação
 
-🔐 MBA em Cibersegurança e Proteção de Dados (em andamento)
+🎓 MBA em Business Intelligence, Big Data & Analytics (em andamento)
 
-📊 MBA em Business Intelligence, Big Data e Analytics (em andamento)
-
----
-
-## 🏅 Certificações
-
-### 🏛️ Universidade Estácio de Sá
-
-✅ Gerência de Projetos de TI (352h)
-
-✅ Implantação de Governança de TI (264h)
-
-✅ Programação para Internet (264h)
-
-✅ Programação para Dispositivos Móveis (246h)
-
-✅ Programação de Algoritmos Escaláveis (264h)
-
-### 🌐 Cisco Networking Academy
-
-✅ Networking Basics
-
-✅ Network Defense
-
-✅ Network Support and Security
-
-✅ Introduction to IoT
+🎓 MBA em Cibersegurança e Proteção de Dados (em andamento)
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 📚 Certificações
+
+- Gerência de Projetos de TI
+- Implantação de Governança de TI
+- Programação para Internet
+- Programação Mobile Android e iOS
+- Programação de Algoritmos Escaláveis
+
+---
+
+## 📊 Estatísticas GitHub
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,git,github,vscode" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud_Computing-blue?style=for-the-badge"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maristelacosta-jpg&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta-jpg&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📫 Conecte-se Comigo
 
-<table>
-<tr>
-<td width="50%">
+<p align="left">
+<a href="https://www.linkedin.com/in/maristelaaparecidacosta/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Maristela_Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🎫 Sistema de Gestão de Chamados
-
-Sistema para gerenciamento e acompanhamento de tarefas técnicas.
-
-**Tecnologias:** Java • SQL • Git
-
-</td>
-
-<td width="50%">
-
-### 📊 Painel de BI
-
-Dashboard de análise de indicadores e métricas empresariais.
-
-**Tecnologias:** Python • Pandas • Streamlit • SQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☕ Cadastro de Clientes Java
-
-Aplicação para cadastro e gerenciamento de clientes.
-
-**Tecnologias:** Java • MySQL
-
-</td>
-
-<td width="50%">
-
-### 🌐 Backend e APIs REST
-
-Desenvolvimento de APIs REST e integração entre sistemas.
-
-**Tecnologias:** Python • Flask • SQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔎 Scanner de IP
-
-Ferramenta para descoberta de dispositivos em rede.
-
-**Tecnologias:** Python • Redes
-
-</td>
-
-<td width="50%">
-
-### 📈 Painel Financeiro
-
-Dashboard para monitoramento e análise financeira.
-
-**Tecnologias:** Python • Streamlit • Pandas
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Competências
-
-### 💻 Desenvolvimento
-
-- Desenvolvimento Web
-- Desenvolvimento Mobile
-- APIs REST
-- Java
-- Python
-- JavaScript
-- HTML5
-- CSS3
-
-### 📊 Dados e BI
-
-- SQL
-- Business Intelligence
-- Data Analytics
-- Power BI
-- Streamlit
-- Pandas
-- Visualização de Dados
-
-### 🔐 Segurança e Redes
-
-- Network Defense
-- Network Security
-- Infraestrutura de Redes
-- IoT
-- Cibersegurança
-
-### 📋 Gestão de TI
-
-- Governança de TI
-- Gestão de Projetos
-- Planejamento Estratégico
-- Processos de TI
-
----
-
-## 📚 Atualmente Estudando
-
-✅ Desenvolvimento Full Stack
-
-✅ Inteligência Artificial
-
-✅ Big Data
-
-✅ Cloud Computing
-
-✅ Engenharia de Dados
-
-✅ Segurança da Informação
-
-✅ Arquitetura de Software
-
----
-
-## 📈 Estatísticas GitHub
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maristelacosta&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/Maristelacosta-jpg" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Maristelacosta--jpg-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
----
+📧 **maristelagatinhapreta@gmail.com**
 
-## 🏆 Troféus GitHub
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Maristelacosta&theme=tokyonight&row=1&column=6"/>
-</p>
+📍 **Curitiba - PR**
 
 ---
 
-## 🎯 Objetivo Profissional
+### 💡 Frase Profissional
 
-Busco oportunidades para atuar como:
-
-💻 Desenvolvedora Full Stack Júnior
-
-📊 Analista de BI Júnior
-
-📈 Analista de Dados Júnior
-
-⚙️ Analista de Sistemas Júnior
-
-🔐 Analista de Segurança da Informação Júnior
-
-Sou uma profissional comprometida com aprendizado contínuo, inovação e desenvolvimento de soluções tecnológicas que gerem valor para pessoas e organizações.
-
----
-
-## 🌎 Contato
-
-📧 Email: maristelagatinhapreta@gmail.com
-
-💼 LinkedIn:
-www.linkedin.com/in/maristela-costa-49b348216
-
-🐙 GitHub:
-www.github.com/Maristelacosta
-
----
-
-<div align="center">
-
-### 🚀 Transformando dados em conhecimento, código em soluções e desafios em oportunidades.
+> **"Transformando dados em insights para impulsionar resultados e apoiar decisões estratégicas."**
 
 ⭐ Obrigada pela visita ao meu perfil!
-
-</div>
